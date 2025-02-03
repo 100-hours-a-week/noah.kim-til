@@ -4,7 +4,7 @@
 
 ### [2월 1주차] : void 인강 정리 (js 응용)
 
-25.02.03 실행 컨텍스트 & this 바인딩 분석 (https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-03.md)
+25.02.03 [실행 컨텍스트 & this 바인딩 분석](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-03.md)
 
 24.04.04 세부 주제 3 작성 (상세 내역 링크)
 
