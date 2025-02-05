@@ -8,7 +8,7 @@
 
 25.02.04 [numpy, pandas](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-04.md)
 
-25.02.05 [numpy, pandas(2)] (상세 내역 링크)
+25.02.05 [numpy, pandas(2)](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-05.md)
 
 24.04.02 세부 주제 1 작성 (상세 내역 링크)
 
