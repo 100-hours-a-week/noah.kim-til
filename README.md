@@ -12,7 +12,7 @@
 
 25.02.06 [numpy, pandas(마무리)](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-06.md)
 
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
+25.02.07 [풀스택 프로젝트 따라해보기](상세 내역 링크)
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
