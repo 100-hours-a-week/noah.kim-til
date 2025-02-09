@@ -16,7 +16,7 @@
 
 25.02.08 [풀스택 프로젝트 따라해보기2](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-08.md)
 
-25.02.09 [풀스택 프로젝트 따라해보기3]()
+25.02.09 [풀스택 프로젝트 따라해보기3](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-09.md)
 
 ### [n월 n째주, n주차] : 간략 주제 작성 
 
