@@ -2,7 +2,7 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [2월 1주차] : void 인강 정리 (js 응용)
+### [2월 1주차] : void 인강 정리 (js 응용) & 웹개발 프로젝트 실습
 
 25.02.03 [실행 컨텍스트 & this 바인딩 분석](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-03.md)
 
@@ -18,12 +18,8 @@
 
 25.02.09 [풀스택 프로젝트 따라해보기3](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-09.md)
 
-### [n월 n째주, n주차] : 간략 주제 작성 
+### [2월 2주차] : 웹개발 프로젝트 실습 
 
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
+25.02.03 []()
 
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
+25.02.03 []()
