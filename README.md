@@ -22,4 +22,6 @@
 
 25.02.10 [풀스택 프로젝트 따라해보기4](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-10.md)
 
+25.02.11 [크램폴린 특강](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-11.md)
+
 25.02.03 []()
