@@ -24,4 +24,4 @@
 
 25.02.11 [크램폴린 특강](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-11.md)
 
-25.02.03 []()
+25.02.12 [데이터 시각화 matplotlib](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-12.md)
