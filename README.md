@@ -29,3 +29,5 @@
 25.02.13 [데이터 시각화 matplotlib2](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-13.md)
 
 25.02.14 [책 읽기-시작! AWS](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-14.md)
+
+25.02.15 [Alex 수학 강의 & 네이버 현직자 특강](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-15.md)
