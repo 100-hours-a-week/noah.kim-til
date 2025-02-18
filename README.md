@@ -32,6 +32,8 @@
 
 25.02.15 [Alex 수학 강의 & 네이버 현직자 특강](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-15.md)
 
-25.02.16 [코드 리팩토링: 인자가 많은 메서드 개선](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-16.md)
+25.02.16 [코드 리팩토링: 인자가 많은 메서드 개선 방법 알아보기](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-16.md)
 
 25.02.17 [API & 크롤링 관련 이모저모](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-17.md)
+
+25.02.18 [Feign 코드 분석과 서버 성능 개선 방법 알아보기](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-18.md)
