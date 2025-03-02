@@ -39,3 +39,5 @@
 25.02.18 [Feign 코드 분석과 서버 성능 개선 방법 알아보기](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-18.md)
 
 25.02.19 [null 반환 지양 이유와 개선 방법](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-02-19.md)
+
+25.02.20 ~ 25.03.02 [아이디어톤 & 해커톤](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-03-02.md)
