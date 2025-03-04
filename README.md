@@ -42,6 +42,6 @@
 
 25.02.20 ~ 25.03.02 [아이디어톤 & 해커톤](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-02.md)
 
-25.03.03 [AI 서버 EC2 인스턴스에 배포한 뒤, http 메서드로 테스트](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-03-03.md)
+25.03.03 [AI 서버 EC2 인스턴스에 배포한 뒤, http 메서드로 테스트](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-03.md)
 
-25.03.04 [사전 훈련 모델 활용](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Feb/2025-03-04.md)
+25.03.04 [사전 훈련 모델 활용](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-04.md)
