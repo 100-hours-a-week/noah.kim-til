@@ -47,3 +47,5 @@
 25.03.04 [사전 훈련 모델 활용](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-04.md)
 
 25.03.05 [model max token 이슈 해결 & 캐싱](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-05.md)
+
+25.03.06 [캐싱 & api 응답 조정](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-06.md)
