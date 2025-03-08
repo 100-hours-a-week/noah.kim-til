@@ -50,4 +50,6 @@
 
 25.03.06 [캐싱 & api 응답 조정](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-06.md)
 
+25.03.07 [커넥팅 데이: 특강 정리](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-07.md)
+
 25.03.08 [밥팟 ai 파트 고도화](https://github.com/100-hours-a-week/noah.kim-til/blob/main/Mar/2025-03-08.md)
